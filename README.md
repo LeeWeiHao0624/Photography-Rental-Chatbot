@@ -31,8 +31,25 @@ the full equipment rental process for a photography rental business.
 | Axios | REST API calls from execute nodes |
 
 ## 📸 Screenshots
-### Booking Flow
-![Booking Flow](docs/flow-diagram.png)
+## 📸 Flow Diagram
+
+### Overview
+![Full Flow](docs/flow-overview.png)
+
+### Section 1 — Entry & Routing
+![Entry](docs/flow-1-entry.png)
+
+### Section 2 — Booking Form & Extraction  
+![Extraction](docs/flow-2-extraction.png)
+
+### Section 3 — Catalog & Form Validation
+![Validation](docs/flow-3-validation.png)
+
+### Section 4 — Availability & Pricing
+![Availability](docs/flow-4-availability.png)
+
+### Section 5 — Confirmation & Booking
+![Confirmation](docs/flow-5-confirmation.png)
 
 ### Chat Demo
 ![Chat Demo](docs/demo-screenshot.png)
@@ -59,7 +76,7 @@ Import it directly into Botpress Cloud to run the bot.
 5. Publish the bot
 
 ## 👨‍💻 Author
-[Your Name]  
+Weihao 
 [Your LinkedIn URL]  
 [Your Email]
 
