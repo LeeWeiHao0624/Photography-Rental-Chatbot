@@ -30,7 +30,7 @@ the full equipment rental process for a photography rental business.
 | Supabase (PostgreSQL) | Live equipment and booking database |
 | Axios | REST API calls from execute nodes |
 
-## 📸 Screenshots
+
 ## 📸 Flow Diagram
 
 ### Overview
