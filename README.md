@@ -45,10 +45,7 @@ the full equipment rental process for a photography rental business.
 ### Section 3 — Catalog & Form Validation
 ![Validation](docs/flow-3-validation.png)
 
-### Section 4 — Availability & Pricing
-![Availability](docs/flow-4-availability.png)
-
-### Section 5 — Confirmation & Booking
+### Section 5 — Availability & Pricing + Confirmation & Booking
 ![Confirmation](docs/flow-5-confirmation.png)
 
 ### Chat Demo
