@@ -1,0 +1,22 @@
+| table_name    | column_name    | data_type                |
+| ------------- | -------------- | ------------------------ |
+| booking_items | booking_id     | character varying        |
+| booking_items | equipment_id   | integer                  |
+| booking_items | quantity       | integer                  |
+| bookings      | booking_id     | text                     |
+| bookings      | created_at     | timestamp with time zone |
+| bookings      | updated_at     | timestamp with time zone |
+| bookings      | customer_name  | text                     |
+| bookings      | customer_phone | character varying        |
+| bookings      | start_date     | date                     |
+| bookings      | end_date       | date                     |
+| bookings      | status         | character varying        |
+| bookings      | total_amount   | numeric                  |
+| bookings      | deposit_amount | numeric                  |
+| equipment     | equipment_id   | integer                  |
+| equipment     | created_at     | timestamp with time zone |
+| equipment     | updated_at     | timestamp with time zone |
+| equipment     | equipment_name | text                     |
+| equipment     | category       | text                     |
+| equipment     | total_stock    | integer                  |
+| equipment     | price_per_day  | numeric                  |
